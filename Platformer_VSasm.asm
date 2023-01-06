@@ -86,4 +86,3 @@ move_down:
 move_right:
 	inc word [x]
 	jmp game_loop
-
