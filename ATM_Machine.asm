@@ -4,7 +4,6 @@
 ; entered PIN, and checks if it is correct. If the entered PIN is correct, it displays a success 
 ; message. If the entered PIN is incorrect, 
 ; it displays an error message and goes back to the start of the program.
-;
 
 section .data
 
