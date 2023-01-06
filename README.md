@@ -1,2 +1,12 @@
-# x86-Assembly-Beginner-Projects
-It was hard and I don't want to learn it anymore.
+# x86 Assembly Beginner Projects
+
+### WHAT DID LEARNED while trying to learn this **monstrosity**?
+
+- x86asm language does not has a large source online.
+- I am waaaay better googling right now. Thank you matrix!
+
+### WHAT DID LEARNED while trying to understand this **monstrosity**?
+
+- My main goal was learning how the computer reads code lines and I kinda understand it now.
+- 01101001 00100000 01110111 01100001 01101110 01110100 00100000 01110100 01101111 00100000 01100100 01101001 01100101 (ASCII)
+
