@@ -1,4 +1,4 @@
-; ATM machine simulation program in x86 assembly language
+; [VSassembly] ATM machine simulation program in x86 assembly language
 
 ; This program displays a welcome message, prompts the user to enter their PIN, reads the 
 ; entered PIN, and checks if it is correct. If the entered PIN is correct, it displays a success 
