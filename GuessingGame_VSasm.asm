@@ -72,3 +72,4 @@ lose:
 	int 0x80		; invoke the kernel
 	
 	jmp _start
+; its has bugs
