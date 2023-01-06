@@ -1,4 +1,4 @@
-; Platformer game in x86 assembly language
+; [VSassembly] Platformer game in x86 assembly language
 
 ; This program displays a simple map on the screen and allows the player to move a character around using the WASD keys.
 ; The character can move up, down, left, or right on the map, but cannot move off the edges of the map.
