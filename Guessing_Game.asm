@@ -1,4 +1,4 @@
-; Number guessing game in x86 assembly language
+; [VSassembly] Number guessing game in x86 assembly language
 ; Player has to guess a number between 1 and 10
 
 ; This program displays a welcome message, prompts the user to enter a number between 1 and 10,
